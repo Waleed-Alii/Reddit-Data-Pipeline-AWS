@@ -40,7 +40,7 @@ The pipeline automates the following workflow:
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Waleed-Alii/Reddit-Data-Pipeline-AWS.git
    ```
 
 2. **Configure Credentials**:
@@ -60,4 +60,4 @@ The pipeline automates the following workflow:
 
 ## Author
 **Waleed Ali**
-- GitHub: [Waleed-Alii](https://github.com/Waleed-Alii)
+- GitHub: [Waleed-Alii](https://github.com/Waleed-Alii)
